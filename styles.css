@@ -30,6 +30,9 @@ h3{
 .Image-text{
   display:inline-block;
 }
+.column1{
+  margin-top:25px;
+}
 .top-container{
   background-color:#E4F9F5;
   position: relative;
