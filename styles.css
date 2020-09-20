@@ -45,12 +45,12 @@ h3{
   border-bottom: 25px;
 }
 .boy{
-  position: absolute;
+  position: relative;
   right: 300px;
   top: 150px;
 }
 .reading{
-  position: absolute;
+  position: relative;
   left: 250px;
   bottom: 400px;
 }
