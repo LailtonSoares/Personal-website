@@ -43,6 +43,14 @@ h3{
   margin-top: 50px;
   margin-bottom: 50px;
 }
+.dots1{
+  border: dotted #EAF6F6 6px;
+  border-bottom: none;
+  width: 4%;
+  margin:100px auto;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
 .profile{
   margin-top: 25px;
   border-bottom: 25px;
