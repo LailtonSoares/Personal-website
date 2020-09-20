@@ -27,6 +27,9 @@ h3{
   background-color:#66BFBF;
   padding: 50px 0 20px;
 }
+.Image-text{
+  display:inline-block;
+}
 .top-container{
   background-color:#E4F9F5;
   position: relative;
